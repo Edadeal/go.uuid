@@ -60,6 +60,7 @@ func main() {
 ## Copyright
 
 Copyright (C) 2013-2016 by Maxim Bublis <b@codemonkey.ru>.
+
 Copyright (C) 2017-now by Edadeal LLC <dev@edadel.ru>.
 
 UUID package released under MIT License.
